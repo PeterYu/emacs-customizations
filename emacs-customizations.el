@@ -6,4 +6,4 @@
     `(,(save-some-buffers)
       ,(shell))))
 
-(provide 'customization)
+(provide 'emacs-customizations)
